@@ -229,7 +229,7 @@ h4 {
   height: 6px;
 }
 
-.chips-warpper:hover:-webkit-scrollbar-thumb {
+.chips-warpper::-webkit-scrollbar-thumb {
   background-color: #717171;
 }
 
